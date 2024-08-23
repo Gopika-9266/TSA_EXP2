@@ -1,9 +1,11 @@
+### Name: Gopika R
+### Register No: 212222240031
+### Date: 
+
 # Ex.No: 02 LINEAR AND POLYNOMIAL TREND ESTIMATION
 
-Date:
-
 ### AIM:
-To Implement Linear and Polynomial Trend Estiamtion Using Python.
+To Implement Linear and Polynomial Trend Estimation Using Python.
 
 ### ALGORITHM:
 1.Import necessary libraries (NumPy, Matplotlib)
@@ -17,10 +19,6 @@ To Implement Linear and Polynomial Trend Estiamtion Using Python.
 5.End the program
 
 ### PROGRAM:
-```
-Name: Gopika R
-Reg No: 212222240031
-```
 ```
 import numpy as np
 import pandas as pd
